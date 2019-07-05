@@ -1,9 +1,9 @@
- /**
+/**
  * 
  */
 /**
  * @author Administrator
  *
  */
-module HaffumanTree {
+module HaffumanTree1 {
 }
